@@ -3,7 +3,7 @@
 	"author": "jsqrt",
 	"license": "MIT",
 	"name": "parcel-reporter-event-handler",
-	"version": "0.1.9",
+	"version": "0.1.10",
 	"main": "index.js",
 	"devDependencies": {},
 	"dependencies": {
