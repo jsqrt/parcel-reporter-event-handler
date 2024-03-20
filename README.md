@@ -7,6 +7,20 @@ You can see usage example in [this template](https://github.com/glivera-team/gli
 
 Important! Don`t forget hit the star https://github.com/jsqrt/parcer-reporter-event-handler
 
+## Usage
+
+Your sources must be in `src` directory.
+Parcel config must be in `.parcelrc` file.
+
+Declare plugin in your `.parcelrc`:
+
+```
+"reporters": [
+  "parcel-reporter-event-handler",
+  "..."
+]
+```
+
 ## Authors
 
 - [@jsqrt](https://github.com/jsqrt/)
